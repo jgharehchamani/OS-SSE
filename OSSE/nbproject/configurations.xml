@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>AESUtility.cpp</itemPath>
+      <itemPath>AESUtility.hpp</itemPath>
+      <itemPath>AVLTree.cpp</itemPath>
+      <itemPath>AVLTree.h</itemPath>
+      <itemPath>Bid.cpp</itemPath>
+      <itemPath>Bid.h</itemPath>
+      <itemPath>Client.cpp</itemPath>
+      <itemPath>Client.h</itemPath>
+      <itemPath>OMAP.cpp</itemPath>
+      <itemPath>OMAP.h</itemPath>
+      <itemPath>ORAM.cpp</itemPath>
+      <itemPath>ORAM.hpp</itemPath>
+      <itemPath>RAMStore.cpp</itemPath>
+      <itemPath>RAMStore.hpp</itemPath>
+      <itemPath>Server.cpp</itemPath>
+      <itemPath>Server.h</itemPath>
+      <itemPath>Types.hpp</itemPath>
+      <itemPath>Utilities.cpp</itemPath>
+      <itemPath>Utilities.h</itemPath>
+      <itemPath>logger.cpp</itemPath>
+      <itemPath>logger.hpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>utils.cpp</itemPath>
+      <itemPath>utils.hpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <developmentMode>6</developmentMode>
+          <standard>11</standard>
+          <incDir>
+            <pElem>/usr/include/openssl</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerOptionItem>-lcrypto</linkerOptionItem>
+            <linkerOptionItem>-lssl</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="AESUtility.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AESUtility.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AVLTree.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AVLTree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Bid.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Bid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Client.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Client.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="OMAP.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OMAP.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ORAM.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ORAM.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RAMStore.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="RAMStore.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Server.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Server.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Types.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Utilities.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Utilities.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="logger.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="logger.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utils.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <standard>11</standard>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="AESUtility.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AESUtility.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AVLTree.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AVLTree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Bid.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Bid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Client.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Client.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="OMAP.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OMAP.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ORAM.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ORAM.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RAMStore.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="RAMStore.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Server.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Server.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Types.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Utilities.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Utilities.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="logger.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="logger.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utils.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utils.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

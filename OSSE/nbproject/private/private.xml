@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <code-assistance-data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <code-model-enabled>true</code-model-enabled>
+    </code-assistance-data>
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Client.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Utilities.h</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Server.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/AESUtility.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/logger.hpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/logger.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/AVLTree.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/utils.hpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Bid.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/ORAM.hpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Utilities.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/AESUtility.hpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/RAMStore.hpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/utils.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Bid.h</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Client.h</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/OMAP.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/OMAP.h</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/ORAM.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Server.h</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/Types.hpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/main.cpp</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/AVLTree.h</file>
+            <file>file:/home/jgc/Desktop/Final%20Release/Final/OSSE/RAMStore.cpp</file>
+        </group>
+    </open-files>
+</project-private>
