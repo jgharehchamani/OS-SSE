@@ -1,7 +1,7 @@
 # OS-SSE
 This repository contains two SSE schemes with optimal and quasi-optimal search times (OSSE and LLSE). The open-source is based on our following under review paper:
 
-Javad Ghareh Chamani, Dimitrios Papadopoulos, Mohammadamin Karbasforushan, Ioannis Demertzis. "Dynamic Searchable Encryption with Optimal Search in the Presence of Deletions." USENIX Security 2022 (under review)
+Javad Ghareh Chamani, Dimitrios Papadopoulos, Mohammadamin Karbasforushan, Ioannis Demertzis. "Dynamic Searchable Encryption with Optimal Search in the Presence of Deletions", USENIX Security 2022 (under review)
 
 
 ### Pre-requisites: ###
